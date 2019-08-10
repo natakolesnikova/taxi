@@ -12,3 +12,5 @@ To run the project locally run commands
 1. mvn clean all
 2. mvn install
 3. run DemoApplication class
+
+Link for testing api http://localhost:8080/swagger-ui.html (driver-controller)
